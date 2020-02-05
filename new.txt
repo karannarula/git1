@@ -2,5 +2,15 @@ Karan HI
 
 Naa
 
+<<<<<<< HEAD
 testts
 
+=======
+NO way i will do it
+
+Heloo
+dddd
+
+
+mai branch1
+>>>>>>> 52cca8a7b28d3b725e1eda2080250589c78797db
